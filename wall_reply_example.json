@@ -1,0 +1,22 @@
+{
+    "group_id": 224247696,
+    "type": "wall_reply_new",
+    "event_id": "ba5dd29506d23d7ccd96a6351c905cf07eac7aac",
+    "v": "5.199",
+    "object": {
+        "id": 3,
+        "from_id": 229376766,
+        "date": 1705253253,
+        "text": "Censored Post 2",
+        "can_delete": 1,
+        "post_id": 1,
+        "owner_id": -224247696,
+        "parents_stack": [],
+        "thread": {
+            "count": 0
+        },
+        "is_from_post_author": true,
+        "post_owner_id": -224247696
+    },
+    "secret": "Astartes22Foundation"
+}

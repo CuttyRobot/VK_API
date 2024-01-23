@@ -1,0 +1,23 @@
+{
+  "group_id": 224247696,
+  "type": "wall_reply_new",
+  "event_id": "b5d9f0209bba2d919e76b7f85ecfa0ab476d5f66",
+  "v": "5.199",
+  "object": {
+    "id": 7,
+    "from_id": 229376766,
+    "date": 1705254465,
+    "text": "Censored Post Stack 1",
+    "can_delete": 1,
+    "post_id": 1,
+    "owner_id": -224247696,
+    "parents_stack": [
+      5
+    ],
+    "reply_to_user": 229376766,
+    "reply_to_comment": 5,
+    "is_from_post_author": true,
+    "post_owner_id": -224247696
+  },
+  "secret": "Astartes22Foundation"
+}
